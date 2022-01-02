@@ -1,0 +1,2 @@
+Hello my name is David
+I'm learning to use git and github from the odin project
